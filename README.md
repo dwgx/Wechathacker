@@ -1,12 +1,30 @@
+# Wechathacker
+
 ## Compliance Notice / 合规声明
 
-- This repository is provided only for education, reverse engineering research, debugging, and interoperability study.
-- Do not use any code or ideas here for unauthorized access, cheating in online services, privacy invasion, data theft, malware delivery, or service disruption.
-- You must comply with applicable laws, platform Terms of Service, and software/game EULA before any use.
-- If any content infringes your rights, open an issue or contact the maintainer for removal.
-- Full statement: [DISCLAIMER.md](./DISCLAIMER.md)
+- 本仓库仅用于学习、逆向研究、调试分析和兼容性研究。
+- 禁止用于未授权访问、破坏服务、隐私侵害、在线作弊、恶意传播等行为。
+- 使用者需自行遵守当地法律、平台条款与相关 EULA。
+- 完整声明见 [DISCLAIMER.md](./DISCLAIMER.md)
 
 ---
-# Wechathacker
-很邪恶的微信黑客  这是老版本WX的BUG 而不是最新NT框架QQ无法使用 直接CE搜索WXID USERNAME PHONENUMBER就可以找到对应版本的基址 于是我写出了这个工具 只要填入版本 基址 可以运用二分法一个个排除 并且附带后端进行加密传输信息
 
+这个仓库目前主要用于历史资料留档，核心文件是：
+
+- `Wechathacker.zip`
+
+## 仓库定位
+
+- 保留历史研究资料
+- 方便后续做结构对比和代码审阅
+- 不提供可直接执行的违规操作说明
+
+## 使用建议
+
+1. 在隔离环境中解压和分析
+2. 先做静态阅读，再决定是否继续研究
+3. 严格遵守法律法规与平台规则
+
+## 说明
+
+本仓库不提供任何未经授权的使用支持。
